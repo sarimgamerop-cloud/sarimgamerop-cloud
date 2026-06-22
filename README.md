@@ -58,15 +58,15 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sarimgamerop-cloud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<!-- GitHub Stats -->
+[![Sarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarimgamerop-cloud&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarimgamerop-cloud&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarimgamerop-cloud&theme=tokyonight&hide_border=false&layout=compact)
 
 </div>
 
 ---
+
 
 # 🧠 Currently Exploring
 
@@ -102,6 +102,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=12)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=sarimgamerop-cloud&style=for-the-badge)
 ### ⭐ “Consistency beats motivation.”
 
 </div>
