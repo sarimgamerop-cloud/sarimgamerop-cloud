@@ -19,7 +19,7 @@
 
 # 🌐 Socials
 
-🌍 **Portfolio:** [sarimportfolio.bond](https://sarimportfolio.bond)
+🌍 **Portfolio:** [sarimportfolio.bond](https://www.sarimportfolio.bond)
 
 <div align="left">
 
